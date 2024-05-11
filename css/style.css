@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Inter", sans-serif; 
+    font-weight: lighter;
+   
+    
+}
+
+.promo{
+    min-width: 825px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+max-width: 1920px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    padding-top: 27px;
+    padding-bottom: 27px;
+
+}
+
+.logo-img{
+    display: flex;
+    margin-left: 55px;
+}
+.menu{
+    min-width: 839px;
+    font-size: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-item{
+    text-decoration: none;
+    color: black;
+
+}
+.promo-img{
+    max-width: 1920px;
+}
+
+
+
+
+.group-menu{
+    min-width: 263px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 55px;
+
+
+
+    
+}
+
+.about{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1810px; 
+    flex-wrap: wrap;
+    margin-left: 55px;
+
+
+ 
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 23px;
+}
+
+.banner3-img{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    min-width: 1920px;
+
+}
+
+.BEST{
+    padding-top: 100px;
+   max-width: 1810px;
+   display: flex;
+   justify-content: space-between;
+   align-items: first baseline;
+   margin-left: 55px;
+}
+
+.bestTEXT{
+    display: flex;
+    justify-content: space-between;
+    min-width: 736px; 
+    margin-bottom: 53px;
+   
+    
+}
+.iconBEST{
+    min-width: 86px; 
+    display: flex;
+    justify-content: space-between;
+  
+}
+.promo-cards{
+    max-width: 1810px;
+    margin-left: 55px;
+   display: flex;
+   justify-content: space-between;
+   align-items: first baseline;
+   margin-bottom: 100px;
+   flex-wrap: wrap;
+}
+
+.promo-cards .card .card-info{
+max-height: 612px;
+margin-top: 22px;
+}
+.promo-cards .card .card-info .card-title{
+    margin-bottom: 22px;
+    font-family: "Inter", sans-serif; 
+    font-weight: lighter;
+    font-size: 23px;
+}
+
+.promo-cards .card .card-info .card-name{
+    font-family: "Inter", sans-serif; 
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.plus{
+    max-width: 1810px;
+    margin-left: 55px;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+
+.plus .preim{
+    margin-left: 36px;
+   margin-right: 200px;
+  
+}
+
+.plus .preim .perechen{
+    align-items: center;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Inter", sans-serif; 
+    font-weight: lighter;
+    font-size: 32px;
+ 
+}
+
+.plus .preim .perechen1{
+    align-items: center;
+    margin-top: 35px;
+    display: flex;
+    font-family: "Inter", sans-serif;  
+    font-size: 32px;
+   
+   
+}
+
+.plus .preim .perechen2{
+    align-items: center;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Inter", sans-serif;  
+    font-size: 32px;
+
+}
+
+.plus .preim .perechen3{
+    align-items: center;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Inter", sans-serif;  
+    font-size: 32px;
+
+}
+h3{
+    font-family: "Inter", sans-serif;  
+    font-size: 32px;
+font-weight: lighter;
+margin-left: 55px;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: rgb(173, 154, 190);
+    max-width: 1920px;
+    max-height: 336px;
+  padding-bottom: 40px;
+}
+
+.footer-m{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    max-width: 1039px;
+    font-size: 23px;
+    text-decoration: none;
+    color: black;
+    margin-left: 230px;
+ 
+
+}
+
+
+.footer-menu1{
+    display: flexbox;
+}
